@@ -1,6 +1,8 @@
 ORiveros HESS Black-Box algorithm http://www.peqnp.com
 
-A polynomial time "incomplete" SAT Solver.
+A polynomial time "incomplete?" SAT Solver.
+
+usage: ./hess_mt <instance> <n-threads>
 
 ///////////////////////////////////////////////////////////////////////////////
 //        Copyright (c) 2012-2020 Oscar Riveros. all rights reserved.        //
